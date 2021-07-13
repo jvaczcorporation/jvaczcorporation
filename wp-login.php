@@ -92,7 +92,7 @@ var _wpUtilSettings = {"ajax":{"url":"\/jvaczcorporation\/wp-admin\/admin-ajax.p
 <script type="text/javascript" src="http://www.jvaczcorporation.com.br/wp-includes/js/wp-util.min.js?ver=5.7.2" id="wp-util-js"></script>
 <script type="text/javascript" id="user-profile-js-extra">
 /* <![CDATA[ */
-var userProfileL10n = {"user_id":"0","nonce":"51680cee8e"};
+var userProfileL10n = {"user_id":"0","nonce":"ec16c5f869"};
 /* ]]> */
 </script>
 <script type="text/javascript" id="user-profile-js-translations">
