@@ -12,32 +12,12 @@
 	<atom:link href="http://www.jvaczcorporation.com.br/feed/" rel="self" type="application/rss+xml" />
 	<link>http://www.jvaczcorporation.com.br</link>
 	<description>Só mais um site WordPress</description>
-	<lastBuildDate>Tue, 13 Jul 2021 18:04:54 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 13 Jul 2021 19:26:22 +0000</lastBuildDate>
 	<language>pt-BR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.7.2</generator>
-	<item>
-		<title>Olá, mundo!</title>
-		<link>http://www.jvaczcorporation.com.br/2021/07/13/ola-mundo/</link>
-					<comments>http://www.jvaczcorporation.com.br/2021/07/13/ola-mundo/#comments</comments>
-		
-		<dc:creator><![CDATA[jvacz]]></dc:creator>
-		<pubDate>Tue, 13 Jul 2021 18:04:54 +0000</pubDate>
-				<category><![CDATA[Sem categoria]]></category>
-		<guid isPermaLink="false">http://www.jvaczcorporation.com.br/?p=1</guid>
-
-					<description><![CDATA[Boas-vindas ao WordPress. Esse é o seu primeiro post. Edite-o ou exclua-o, e então comece&#8230;<a href="http://www.jvaczcorporation.com.br/2021/07/13/ola-mundo/" class="more-link"><span class="more-button">Continue reading<span class="screen-reader-text">Olá, mundo!</span></span></a>]]></description>
-										<content:encoded><![CDATA[
-<p>Boas-vindas ao WordPress. Esse é o seu primeiro post. Edite-o ou exclua-o, e então comece a escrever!</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>http://www.jvaczcorporation.com.br/2021/07/13/ola-mundo/feed/</wfw:commentRss>
-			<slash:comments>1</slash:comments>
-		
-		
-			</item>
-	</channel>
+</channel>
 </rss>
